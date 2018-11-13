@@ -1462,401 +1462,401 @@ msgstr ""
 
 #: options.php:465
 msgid "轮播设置"
-msgstr ""
+msgstr "画像展示設定"
 
 #: options.php:468
 msgid "主页轮播"
-msgstr ""
+msgstr "ホームページに画像展示"
 
 #: options.php:469
 msgid "是否启用轮播功能"
-msgstr ""
+msgstr "画像展示機能有効化しますか？"
 
 #: options.php:474
 msgid "注意："
-msgstr ""
+msgstr "注意："
 
 #: options.php:475
 msgid "图片宽度建议大于750px，所有图片比例须一致"
-msgstr ""
+msgstr "画像は750px以上の幅広さがおすすめ、すべての画像の比例は必ず一致にしてください。"
 
 #: options.php:477
 msgid "轮播图片-1"
-msgstr ""
+msgstr "展示画像1"
 
 #: options.php:481
 msgid "轮播链接-1"
-msgstr ""
+msgstr "リンク1"
 
 #: options.php:482 options.php:492 options.php:502 options.php:512
 #: options.php:522
 msgid "链接可以留空"
-msgstr ""
+msgstr "リンクは空いても大丈夫です"
 
 #: options.php:487
 msgid "轮播图片-2"
-msgstr ""
+msgstr "展示画像2"
 
 #: options.php:491
 msgid "链接2"
-msgstr ""
+msgstr "リンク2"
 
 #: options.php:497
 msgid "轮播图片-3"
-msgstr ""
+msgstr "展示画像3"
 
 #: options.php:501
 msgid "链接3"
-msgstr ""
+msgstr "リンク3"
 
 #: options.php:507
 msgid "轮播图片-4"
-msgstr ""
+msgstr "展示画像4"
 
 #: options.php:511
 msgid "链接4"
-msgstr ""
+msgstr "リンク4"
 
 #: options.php:517
 msgid "轮播图片-5"
-msgstr ""
+msgstr "展示画像5"
 
 #: options.php:521
 msgid "链接5"
-msgstr ""
+msgstr "リンク"
 
 #: options.php:527
 msgid "邮件设置"
-msgstr ""
+msgstr "メール設定"
 
 #: options.php:530
 msgid "SMTP服务"
-msgstr ""
+msgstr "SMTPサービス"
 
 #: options.php:531
 msgid "是否启用SMTP邮件发送服务"
-msgstr ""
+msgstr "SMTP送信サービス使用しますか？"
 
 #: options.php:536
 msgid "发信人"
-msgstr ""
+msgstr "発信者名"
 
 #: options.php:537
 msgid "请填写发件人姓名"
-msgstr ""
+msgstr "発信者名を入力してください。"
 
 #: options.php:542
 msgid "邮件服务器"
-msgstr ""
+msgstr "メールサーバー"
 
 #: options.php:543
 msgid "请填写SMTP服务器地址"
-msgstr ""
+msgstr "SMTPサーバーのアドレスを入力してください。"
 
 #: options.php:548
 msgid "服务器端口"
-msgstr ""
+msgstr "サーバーポート"
 
 #: options.php:549
 msgid "请填写SMTP服务器端口"
-msgstr ""
+msgstr "SMTPサーバーのポートを入力してください。"
 
 #: options.php:554
 msgid "邮箱帐号"
-msgstr ""
+msgstr "メールアカウント"
 
 #: options.php:555
 msgid "请填写邮箱账号"
-msgstr ""
+msgstr "メールアカウントを入力してください。"
 
 #: options.php:560
 msgid "邮箱密码"
-msgstr ""
+msgstr "メールパスワード"
 
 #: options.php:561
 msgid "请填写邮箱密码"
-msgstr ""
+msgstr "メールのパスワードを入力してください。"
 
 #: options.php:566
 msgid "启用SMTPAuth服务"
-msgstr ""
+msgstr "SMTPAuthサービス使用しますか"
 
 #: options.php:567
 msgid "是否启用SMTPAuth服务"
-msgstr ""
+msgstr "SMTPAuthサービスの使用"
 
 #: options.php:572
 msgid "SMTPSecure设置"
-msgstr ""
+msgstr "SMTPSecure設定"
 
 #: options.php:573
 msgid ""
 "若启用SMTPAuth服务则填写ssl，若不启用则留空；office365的邮箱请填写STARTTLS"
-msgstr ""
+msgstr "SMTPAuthならsslで、不使用の場合はブランクにしてください。office365はSTARTTLSを書いてください。"
 
 #: options.php:578
 msgid "雪花设置"
-msgstr ""
+msgstr "雪の設定"
 
 #: options.php:581
 msgid "站点雪花"
-msgstr ""
+msgstr "サイトの雪効果"
 
 #: options.php:582
 msgid "是否启用站点雪花功能"
-msgstr ""
+msgstr "雪を表示しますか？"
 
 #: options.php:587
 msgid "移动端是否显示"
-msgstr ""
+msgstr "モバイル端末に表示しますか？"
 
 #: options.php:588
 msgid "配置移动端是否显示，默认是"
-msgstr ""
+msgstr "モバイル端末にの表示状態、デフォルトは有効"
 
 #: options.php:593
 msgid "雪花数量"
-msgstr ""
+msgstr "雪の量"
 
 #: options.php:594
 msgid "数值越大雪花数量越多，默认150"
-msgstr ""
+msgstr "数値が大きくなると、雪が多くなる。デフォルトは150"
 
 #: options.php:599
 msgid "雪花大小"
-msgstr ""
+msgstr "雪のサイズ"
 
 #: options.php:600
 msgid "为基准值，数值越大雪花越大，默认2"
-msgstr ""
+msgstr "は基準値、数値が大きくなると、雪が大きくなる。デフォルトは2"
 
 #: options.php:605
 msgid "雪花距离"
-msgstr ""
+msgstr "雪との距離"
 
 #: options.php:606
 msgid "雪花距离鼠标指针的最小值，小于这个距离的雪花将受到鼠标的排斥，默认100"
-msgstr ""
+msgstr "雪とマウスポインタの最小距離、この距離以内の雪はマウスの斥力を受け、デフォルトは100"
 
 #: options.php:611
 msgid "雪花速度"
-msgstr ""
+msgstr "雪の速さ"
 
 #: options.php:612
 msgid "为基准值，数值越大雪花速度越快，默认0.5"
-msgstr ""
+msgstr "は基準値、数値大きくすると速くなる、デフォルトは0.5"
 
 #: options.php:617
 msgid "雪花横移度"
-msgstr ""
+msgstr "雪の水平移動係数"
 
 #: options.php:618
 msgid "为基准值，数值越大雪花横移幅度越大，0为竖直下落，默认1"
-msgstr ""
+msgstr "は基準値、数値大きくすると水平方向の移動はより遠い、0は真下に落ちる、デフォルトは1."
 
 #: options.php:623
 msgid "雪花颜色"
-msgstr ""
+msgstr "雪の色"
 
 #: options.php:624
 msgid "请用RGB格式表示，默认255,255,255"
-msgstr ""
+msgstr "RGBのようで入力、デフォルトは255,255,255"
 
 #: options.php:629
 msgid "雪花不透明度"
-msgstr ""
+msgstr "雪の不透明度"
 
 #: options.php:630
 msgid "为基准值，范围0~1，1为不透明，默认0.3"
-msgstr ""
+msgstr "は基準値、範囲は0～1、1は不透明、デフォルトは0.3"
 
 #: options.php:635
 msgid "注册登录设置"
-msgstr ""
+msgstr "登録及びログインの設置"
 
 #: options.php:638
 msgid "注册登录页面背景"
-msgstr ""
+msgstr "登録及びログイン時のページ背景"
 
 #: options.php:639
 msgid "因为默认使用了Bing每日美图API，所以这里只能手动写链接了..."
-msgstr ""
+msgstr "Bing日変わり写真APIを利用しているので、ここにリンクを書いてしかない"
 
 #: options.php:644
 msgid "注册登录页面站点图标"
-msgstr ""
+msgstr "登録ページのサイトアイコン"
 
 #: options.php:649
 msgid "以下为用户注册部分的设置"
-msgstr ""
+msgstr "以下は登録の設定です"
 
 #: options.php:651
 msgid "使用密码注册"
-msgstr ""
+msgstr "パスワードで登録"
 
 #: options.php:652
 msgid "是否允许用户输入密码注册(免邮箱验证)"
-msgstr ""
+msgstr "ユーザーからパスワードを入力して登録のは許可しますか？（メール認証回避）"
 
 #: options.php:657
 msgid "域名限制模式"
-msgstr ""
+msgstr "ドメイン制限モード"
 
 #: options.php:658
 msgid "如果不想限制邮箱，请将此部分设置保持默认。"
-msgstr ""
+msgstr "メール制限したくない場合は、この部分デフォルトのままにしてください。"
 
 #: options.php:664
 msgid "白名单模式"
-msgstr ""
+msgstr "ホワイトリストモード"
 
 #: options.php:665
 msgid "黑名单模式"
-msgstr ""
+msgstr "ブラックリストモード"
 
 #: options.php:667
 msgid "域名白名单列表(一行一个)"
-msgstr ""
+msgstr "ドメインホワイトリスト（1行は1点まで）"
 
 #: options.php:672
 msgid "域名黑名单列表(一行一个)"
-msgstr ""
+msgstr "ドメインブラックリスト（1行は1点まで）"
 
 #: options.php:677
 msgid "错误信息"
-msgstr ""
+msgstr "エラー情報"
 
 #: options.php:678
 msgid "用户域名被阻止时的提示信息"
-msgstr ""
+msgstr "ユーザードメインが制限された時の提示"
 
 #: options.php:680
 msgid "本站禁止此域名的邮箱注册，请更换邮箱再试。"
-msgstr ""
+msgstr "当サイトでは、ご入力したメールアドレスでの登録は禁止されています。別のメールに変更してみたら？"
 
 #: options.php:683
 msgid "以下为用户登录限制部分设置"
-msgstr ""
+msgstr "下記機能はユーザーログイン制限の設定です。"
 
 #: options.php:684
 msgid "默认不启用，但是建议手动启用此功能"
-msgstr ""
+msgstr "デフォルトは無効、有効化におすすめ"
 
 #: options.php:686
 msgid "用户登录限制"
-msgstr ""
+msgstr "ログイン制限"
 
 #: options.php:687
 msgid "是否启用登录限制功能(只有启用此项，下面的设置才有效)"
-msgstr ""
+msgstr "ログインに制限しますか？（こちらを有効化するのみ、以下の設定に有効）"
 
 #: options.php:692
 msgid "登录尝试机会"
-msgstr ""
+msgstr "ログインの試し機会"
 
 #: options.php:693
 msgid "允许输错密码的次数，默认3"
-msgstr ""
+msgstr "パスワード誤入力を許す回数、デフォルトは3回"
 
 #: options.php:698
 msgid "初始锁定时间"
-msgstr ""
+msgstr "初回ブロック時間"
 
 #: options.php:699
 msgid "单位秒，不应小于60，默认1200(20分钟)"
-msgstr ""
+msgstr "秒で、最小値は60、デフォルトは1200（20分）"
 
 #: options.php:704
 msgid "增加锁定时间所需锁定次数"
-msgstr ""
+msgstr "ブロック時間を増大までのブロック回数"
 
 #: options.php:705
 msgid "默认3次"
-msgstr ""
+msgstr "デフォルトは3回"
 
 #: options.php:710
 msgid "增加后的锁定时间"
-msgstr ""
+msgstr "増大後のブロック時間"
 
 #: options.php:711
 msgid "单位秒，不应小于3600，默认86400(24小时)"
-msgstr ""
+msgstr "秒で、最小値は3600、デフォルトは86400（24時間）"
 
 #: options.php:716
 msgid "自动清除锁定IP的时间"
-msgstr ""
+msgstr "ブロックされたIPの自動解放時間"
 
 #: options.php:717
 msgid "单位秒，默认43200(12小时)"
-msgstr ""
+msgstr "秒で、デフォルトは43200(12時間.)"
 
 #: options.php:722
 msgid "控制Cookie登录"
-msgstr ""
+msgstr "クッキーでログインを制限します"
 
 #: options.php:723
 msgid "是否控制Cookie登录"
-msgstr ""
+msgstr "クッキーでログインを制限しますか？"
 
 #: options.php:728
 msgid "邮件提醒"
-msgstr ""
+msgstr "メール通知"
 
 #: options.php:729
 msgid "是否启用锁定邮件提醒功能(请在下方设置提醒阈值)"
-msgstr ""
+msgstr "ブロック通知しますか？"
 
 #: options.php:734
 msgid "锁定提醒阈值"
-msgstr ""
+msgstr "ブロック通知制限"
 
 #: options.php:735
 msgid "默认2次(启用上方的邮件提醒功能才有效)"
-msgstr ""
+msgstr "デフォルトは2回(メール通知が有効化に設定したのみ有効。)"
 
 #: pages/page-archives.php:42
 msgid "文章归档"
-msgstr ""
+msgstr "文章アチーブ"
 
 #: pages/page-archives.php:43
 msgid "当前共有"
-msgstr ""
+msgstr "只今"
 
 #: pages/page-archives.php:43
 msgid "篇公开日志，"
-msgstr ""
+msgstr "件記事、"
 
 #: pages/page-archives.php:43
 msgid "个公开页面。 (゜-゜)つロ 干杯~"
-msgstr ""
+msgstr "個ページが公開された。(゜-゜)つロ 乾杯～"
 
 #: pages/page-archives.php:45
 msgid "Tags"
-msgstr ""
+msgstr "タッグ"
 
 #: pages/page-archives.php:50
 msgid "Archives"
-msgstr ""
+msgstr "Archives"
 
 #: pages/page-link.php:20 pages/page-links.php:36
 msgid "dalao们"
-msgstr ""
+msgstr "友人たち"
 
 #: pages/page-link.php:21 pages/page-links.php:37
 msgid "dalao们的链接，每次刷新随机排序~"
-msgstr ""
+msgstr "友人たちのサイト、リフレッシュすると位置が変われるよ～"
 
 #: pages/page-links.php:20
 msgid "自己的项目"
-msgstr ""
+msgstr "自分の作品"
 
 #. Theme Name of the plugin/theme
 msgid "Kratos-pjax"
-msgstr ""
+msgstr "Kratos-pjax"
 
 #. Theme URI of the plugin/theme
 msgid "https://github.com/xb2016/kratos-pjax"
-msgstr ""
+msgstr "https://github.com/xb2016/kratos-pjax"
 
 #. Description of the plugin/theme
 msgid ""
@@ -1864,11 +1864,14 @@ msgid ""
 "以通过使用小工具、导航、社交组件、站点标识、自定颜色等来个性化你的站点。此为"
 "小白-白(www.fczbl.vip)的二次开发版本。"
 msgstr ""
+"Kratos は個人用ブログのテーマです。ページの配置を快適にカスタマイズ："
+"ツール、ナビ、SNS、サイト標識、色などの方面から自由に配置できる。"
+"只今使用しているバージョンは小白-白(www.fczbl.vip)の二次開発版です。"
 
 #. Author of the plugin/theme
 msgid "Vtrois(Modified by 小白-白)"
-msgstr ""
+msgstr "Vtrois(Modified by 小白-白)"
 
 #. Author URI of the plugin/theme
 msgid "https://www.vtrois.com/"
-msgstr ""
+msgstr "https://www.vtrois.com/"
