@@ -154,191 +154,191 @@ msgstr "只今、コメントは審査中。少々お待ちを"
 
 #: inc/core.php:449 options.php:44
 msgid "站点地图"
-msgstr ""
+msgstr "サイトマップ"
 
 #: inc/core.php:525
 msgid "最后更新于"
-msgstr ""
+msgstr "最後の更新時間は"
 
 #: inc/imgcfg.php:125 inc/imgcfg.php:126
 msgid "从URL添加"
-msgstr ""
+msgstr "URLより"
 
 #: inc/imgcfg.php:137
 msgid "或"
-msgstr ""
+msgstr "若しくは"
 
 #: inc/imgcfg.php:140 inc/imgcfg.php:143
 msgid "从URL导入"
-msgstr ""
+msgstr "URLより導入"
 
 #: inc/imgcfg.php:158
 msgid "从URL添加媒体项目"
-msgstr ""
+msgstr "URLよりメディアを導入"
 
 #: inc/imgcfg.php:164
 msgid "请手动指定图像大小与格式"
-msgstr ""
+msgstr "画像サイズと形式を指定してください"
 
 #: inc/imgcfg.php:166
 msgid "宽"
-msgstr ""
+msgstr "幅広さ"
 
 #: inc/imgcfg.php:168
 msgid "高"
-msgstr ""
+msgstr "縦高さ"
 
 #: inc/imgcfg.php:170
 msgid "MIME类型"
-msgstr ""
+msgstr "MIME類"
 
 #: inc/imgcfg.php:177
 msgid "清除"
-msgstr ""
+msgstr "クリア"
 
 #: inc/imgcfg.php:178
 msgid "添加"
-msgstr ""
+msgstr "追加"
 
 #: inc/imgcfg.php:180
 msgid "取消"
-msgstr ""
+msgstr "キャンセル"
 
 #: inc/imgcfg.php:191
 msgid "相关JS加载失败"
-msgstr ""
+msgstr "JSのロードに失敗した"
 
 #: inc/imgcfg.php:221 inc/imgcfg.php:227
 msgid "图像大小不合法"
-msgstr ""
+msgstr "画像のサイズ違う"
 
 #: inc/imgcfg.php:250
 msgid "无法获取图像大小"
-msgstr ""
+msgstr "画像サイズが取得できませんでした"
 
 #: inc/logincfg.php:38
 msgid "错误"
-msgstr ""
+msgstr "エラー"
 
 #: inc/logincfg.php:52
 msgid "密码"
-msgstr ""
+msgstr "パスワード"
 
 #: inc/logincfg.php:57
 msgid "重复密码"
-msgstr ""
+msgstr "パスワードを繰り返して"
 
 #: inc/logincfg.php:63
 msgid "人机验证："
-msgstr ""
+msgstr "ヒューマン認証"
 
 #: inc/logincfg.php:71
 msgid "<strong>错误</strong>：昵称一栏不能为空。"
-msgstr ""
+msgstr "<strong>エラー</strong>：ニックネームは空いてはいけません。"
 
 #: inc/logincfg.php:72
 msgid "<strong>错误</strong>：两次输入的密码不一致。"
-msgstr ""
+msgstr "<strong>エラー</strong>：パスワードが一致しません。"
 
 #: inc/logincfg.php:73
 msgid "<strong>错误</strong>：密码长度必须大于8位。"
-msgstr ""
+msgstr "<strong>エラー</strong>：パスワードの最小値は8桁です。"
 
 #: inc/logincfg.php:74
 msgid "<strong>错误</strong>：验证码错误，请重试。"
-msgstr ""
+msgstr "<strong>エラー</strong>：確認コードが間違う、もう一度、やり直してください。"
 
 #: inc/logincfg.php:248
 #, php-format
 msgid "%d 小时"
-msgstr ""
+msgstr "%d 時間"
 
 #: inc/logincfg.php:253
 #, php-format
 msgid "%d 分钟"
-msgstr ""
+msgstr "%d 分"
 
 #: inc/logincfg.php:256
 msgid "登录失败次数过多"
-msgstr ""
+msgstr "ログインに失敗した回数が多すぎ"
 
 #: inc/logincfg.php:257
 #, php-format
 msgid "失败登录次数：%d ，IP：%s"
-msgstr ""
+msgstr "失敗した回数は：%d ，IP：%s"
 
 #: inc/logincfg.php:260
 #, php-format
 msgid "最后一次尝试登录的用户名：%s"
-msgstr ""
+msgstr "最後試したユーザー名は：%s"
 
 #: inc/logincfg.php:263
 #, php-format
 msgid "此 IP 已被封锁，封锁时长：%s"
-msgstr ""
+msgstr "このIPアドレスはブロックされた、ブロック時間は：%s"
 
 #: inc/logincfg.php:270
 msgid "<strong>错误</strong>：登录失败次数过多，"
-msgstr ""
+msgstr "<strong>エラー</strong>：ログインに失敗した回数が多すぎ"
 
 #: inc/logincfg.php:272
 msgid "请稍候再试。"
-msgstr ""
+msgstr "しばらくお待ちの上、もう一度やり直してください"
 
 #: inc/logincfg.php:278
 #, php-format
 msgid "请在 %d 小时后重试。"
-msgstr ""
+msgstr "%d 時間後に、もう一度やり直してください。"
 
 #: inc/logincfg.php:280
 #, php-format
 msgid "请在 %d 分钟后重试。"
-msgstr ""
+msgstr "%d 分後に、もう一度やり直してください。"
 
 #: inc/logincfg.php:292
 #, php-format
 msgid ""
 "<strong>错误</strong>：账号或密码有误，您还有<strong>%d</strong>次尝试机会。"
-msgstr ""
+msgstr "<strong>エラー</strong>：ユーザー名又はパスワードが間違った、あと<strong>%d</strong>回が試せる。"
 
 #: inc/post.php:58
 msgid "这是一篇受保护的文章，请输入阅读密码！"
-msgstr ""
+msgstr "これは保護された文章です、パスワードを入力してください。"
 
 #: inc/post.php:61
 msgid "输入阅读密码"
-msgstr ""
+msgstr "パスワードを入力してください。"
 
 #: inc/post.php:63
 msgid "确认"
-msgstr ""
+msgstr "確認"
 
 #: inc/post.php:163
 msgid "首页"
-msgstr ""
+msgstr "最初"
 
 #: inc/post.php:194
 msgid "尾页"
-msgstr ""
+msgstr "最後"
 
 #: inc/share.php:39
 msgid "打开微信“扫一扫”，打开网页后点击屏幕右上角分享按钮"
-msgstr ""
+msgstr "QRコードをスキャンし、右上のシェアボタンをご利用ください"
 
 #: inc/shortcode.php:41 inc/shortcode.php:309
 msgid "本地下载"
-msgstr ""
+msgstr "当サイトよりダウンロード"
 
 #: inc/shortcode.php:48 inc/shortcode.php:310
 msgid "云盘下载"
-msgstr ""
+msgstr "クラウドよりダウンロード"
 
 #: inc/shortcode.php:81 inc/shortcode.php:115 inc/shortcode.php:125
 #: inc/shortcode.php:135 inc/shortcode.php:145 inc/shortcode.php:307
 #: inc/shortcode.php:316 inc/shortcode.php:317 inc/shortcode.php:318
 #: inc/shortcode.php:319
 msgid "标题内容"
-msgstr ""
+msgstr "タイトル内容"
 
 #: inc/shortcode.php:101
 #, php-format
@@ -346,6 +346,8 @@ msgid ""
 "抱歉，只有<a href=\"%s\" rel=\"nofollow\">登录</a>并在本文发表评论才能阅读隐"
 "藏内容"
 msgstr ""
+"申し訳ございません、こちらは隠された内容ですので、<a href=\"%s\" rel=\"nofollow\">ログイン</a>して、"
+"コメントしたあと、この内容が読めるよ"
 
 #: inc/shortcode.php:108
 #, php-format
@@ -353,82 +355,84 @@ msgid ""
 "抱歉，只有<a href=\"%s\" rel=\"nofollow\">登录</a>并在本站任一文章发表评论才"
 "能阅读隐藏内容"
 msgstr ""
+"申し訳ございません、こちらは隠された内容ですので、<a href=\"%s\" rel=\"nofollow\">ログイン</a>して、"
+"当サイトにあるどれ一つの文章にコメントしたあと、この内容が読めるよ"
 
 #: inc/shortcode.php:110
 msgid "以下为隐藏内容："
-msgstr ""
+msgstr "以下内容は隠された内容です"
 
 #: inc/shortcode.php:295
 msgid "添加表情"
-msgstr ""
+msgstr "表情を追加"
 
 #: inc/shortcode.php:303
 msgid "代码高亮"
-msgstr ""
+msgstr "ソースコードの強調"
 
 #: inc/shortcode.php:304
 msgid "内容标题"
-msgstr ""
+msgstr "内容タイトル"
 
 #: inc/shortcode.php:305
 msgid "蓝色字体"
-msgstr ""
+msgstr "青文字"
 
 #: inc/shortcode.php:306
 msgid "红色字体"
-msgstr ""
+msgstr "赤文字"
 
 #: inc/shortcode.php:307
 msgid "展开/收缩"
-msgstr ""
+msgstr "展開/収縮"
 
 #: inc/shortcode.php:308
 msgid "回复可见"
-msgstr ""
+msgstr "コメントして見える"
 
 #: inc/shortcode.php:311
 msgid "网易云音乐"
-msgstr ""
+msgstr "ネットイースト ミュージック"
 
 #: inc/shortcode.php:312
 msgid "绿色背景栏"
-msgstr ""
+msgstr "緑背景"
 
 #: inc/shortcode.php:313
 msgid "蓝色背景栏"
-msgstr ""
+msgstr "青背景"
 
 #: inc/shortcode.php:314
 msgid "黄色背景栏"
-msgstr ""
+msgstr "黄色背景"
 
 #: inc/shortcode.php:315
 msgid "红色背景栏"
-msgstr ""
+msgstr "赤背景"
 
 #: inc/shortcode.php:316
 msgid "绿色面板"
-msgstr ""
+msgstr "緑フレーム"
 
 #: inc/shortcode.php:317
 msgid "蓝色面板"
-msgstr ""
+msgstr "青フレーム"
 
 #: inc/shortcode.php:318
 msgid "黄色面板"
-msgstr ""
+msgstr "黄色フレーム"
 
 #: inc/shortcode.php:319
 msgid "红色面板"
-msgstr ""
+msgstr "赤フレーム"
 
 #: inc/single-templates/single-status.php:25 inc/single-templates/single.php:59
 msgid "上一篇"
-msgstr ""
+msgstr "前へ"
 
 #: inc/single-templates/single-status.php:31 inc/single-templates/single.php:65
 msgid "下一篇"
-msgstr ""
+msgstr "次へ"
 
 #: inc/single-templates/single.php:31 page.php:21 pages/page-notitle.php:22
 msgid ""
@@ -436,342 +440,345 @@ msgid ""
 "creativecommons.org/licenses/by-sa/4.0/\">知识共享署名-相同方式共享 4.0 国际"
 "许可协议</a> 进行许可"
 msgstr ""
+"この作品は<a rel=\"license nofollow\" target=\"_blank\" href=\"http://"
+"creativecommons.org/licenses/by-sa/4.0/deed.ja\">表示 - 継承 4.0 国際 (CC BY-SA 4.0)</a>"
+"ライセンスで許可します"
 
 #: inc/single-templates/single.php:36 page.php:27 pages/page-archives.php:60
 #: pages/page-notitle.php:28
 msgid "打赏"
-msgstr ""
+msgstr "賞与"
 
 #: inc/single-templates/single.php:37
 msgid "点赞"
-msgstr ""
+msgstr "いいね！"
 
 #: inc/single-templates/single.php:39 page.php:29 pages/page-archives.php:62
 #: pages/page-notitle.php:30
 msgid "分享"
-msgstr ""
+msgstr "シェア"
 
 #: inc/single-templates/single.php:49
 msgid "最后编辑："
-msgstr ""
+msgstr "最後編集："
 
 #: inc/smtp.php:30
 msgid "[通知]您的留言已经通过审核"
-msgstr ""
+msgstr "「お知らせ」あなたのコメントの審査はクリアしました。"
 
 #: inc/smtp.php:40
 msgid "您有一条留言通过了管理员的审核并显示在文章页面，摘要信息请见下表。"
-msgstr ""
+msgstr "おめでとうございます、下記のコメントが管理員に承認されました。サイトに掲載されました。ご確認ください。"
 
 #: inc/smtp.php:44
 msgid "文章"
-msgstr ""
+msgstr "文章"
 
 #: inc/smtp.php:45
 msgid "内容"
-msgstr ""
+msgstr "内容"
 
 #: inc/smtp.php:46 inc/smtp.php:97
 msgid "操作"
-msgstr ""
+msgstr "操作"
 
 #: inc/smtp.php:53
 msgid "查看留言"
-msgstr ""
+msgstr "コメントを確認"
 
 #: inc/smtp.php:58 inc/smtp.php:110
 msgid "该邮件由系统自动发出，如果不是您本人操作，请忽略此邮件。"
-msgstr ""
+msgstr "このメール通知はシステム自動で送信された、非本意の場合であれば、申し訳ございませんが、お許しください。"
 
 #: inc/smtp.php:80
 msgid "[通知]您的留言有了新的回复"
-msgstr ""
+msgstr "「お知らせ」あなたのコメントに新しな返信があります。"
 
 #: inc/smtp.php:90
 msgid "您有一条留言有了新的回复，摘要信息请见下表。"
-msgstr ""
+msgstr "あなたのコメントに、下記の返信が来ました、ご確認ください。"
 
 #: inc/smtp.php:94
 msgid "原文"
-msgstr ""
+msgstr "原文"
 
 #: inc/smtp.php:95
 msgid "回复"
-msgstr ""
+msgstr "返信"
 
 #: inc/smtp.php:96
 msgid "作者"
-msgstr ""
+msgstr "作者"
 
 #: inc/smtp.php:105
 msgid "查看回复"
-msgstr ""
+msgstr "返信の確認"
 
 #: inc/smtp.php:133
 msgid "密码重设通知"
-msgstr ""
+msgstr "パスワードリセットのお知らせ"
 
 #: inc/smtp.php:133
 #, php-format
 msgid "有人要求重设您在[%s]的密码，若不是您本人请求，请忽略本邮件。"
-msgstr ""
+msgstr "ある人がうちのサイト[%s]にある、あなたのアカウントのパスワードのリセットが要求された、非本意の場合であれば、このメールを無視してください、あなたのアカウントまだ安全でございます。"
 
 #: inc/smtp.php:133
 msgid "密码重设信息"
-msgstr ""
+msgstr "パスワードリセット情報"
 
 #: inc/smtp.php:133 inc/smtp.php:144 inc/smtp.php:149
 msgid "用户名"
-msgstr ""
+msgstr "ユーザー名"
 
 #: inc/smtp.php:133 inc/smtp.php:144 inc/smtp.php:149
 msgid "登录邮箱"
-msgstr ""
+msgstr "登録されたメールアドレス"
 
 #: inc/smtp.php:133
 msgid "密码重设地址"
-msgstr ""
+msgstr "パスワードのリセットURL"
 
 #: inc/smtp.php:133 inc/smtp.php:149
 msgid "单击访问"
-msgstr ""
+msgstr "リセットページへ"
 
 #: inc/smtp.php:133 inc/smtp.php:144 inc/smtp.php:149
 msgid "如果您的账号有异常，请您在第一时间和我们取得联系哦~"
-msgstr ""
+msgstr "もしあなたのアカウントは異常があれば、お早めに当サイトの管理員と連絡してください。"
 
 #: inc/smtp.php:144 inc/smtp.php:149
 msgid "注册成功通知"
-msgstr ""
+msgstr "登録完了のお知らせ"
 
 #: inc/smtp.php:144
 #, php-format
 msgid "欢迎您注册[%s]，下面是您的账号信息，请妥善保管！"
-msgstr ""
+msgstr "[%s]にご登録いただいた、誠にありがとうございます。アカウント情報は下記の通りでございます。万全に保管してください！"
 
 #: inc/smtp.php:144
 msgid "您的详细注册信息"
-msgstr ""
+msgstr "登録情報"
 
 #: inc/smtp.php:144
 msgid "登录密码"
-msgstr ""
+msgstr "パスワード"
 
 #: inc/smtp.php:144
 msgid "您设定的密码"
-msgstr ""
+msgstr "あなたが設定されたパスワード"
 
 #: inc/smtp.php:149
 #, php-format
 msgid "欢迎您注册[%s]，请使用下面的信息登录并修改密码！"
-msgstr ""
+msgstr "[%s]にご登録いただいた、誠にありがとうございます。下にある情報でログインし、お早めにパスワードを変更してください。"
 
 #: inc/smtp.php:149
 msgid "您的注册信息"
-msgstr ""
+msgstr "登録情報"
 
 #: inc/smtp.php:149
 msgid "临时密码"
-msgstr ""
+msgstr "一時パスワード"
 
 #: inc/smtp.php:149
 msgid "登录地址"
-msgstr ""
+msgstr "ログインURL"
 
 #: inc/smtp.php:152
 msgid "欢迎注册"
-msgstr ""
+msgstr "ご登録ありがとうございます。"
 
 #: inc/theme-options/includes/class-options-framework-admin.php:77
 msgid "保存设置"
-msgstr ""
+msgstr "セーブ"
 
 #: inc/theme-options/includes/class-options-framework-admin.php:78
 msgid "恢复默认"
-msgstr ""
+msgstr "デフォルトに戻る"
 
 #: inc/theme-options/includes/class-options-framework-admin.php:78
 msgid "您是否要恢复默认设置？"
-msgstr ""
+msgstr "本当にデフォルトに戻る？"
 
 #: inc/theme-options/includes/class-options-framework-admin.php:90
 msgid "恢复默认设置成功"
-msgstr ""
+msgstr "設定がデフォルトに戻りました"
 
 #: inc/theme-options/includes/class-options-framework-admin.php:119
 msgid "保存成功"
-msgstr ""
+msgstr "セーブ成功"
 
 #: inc/theme-options/includes/class-options-media-uploader.php:28
 msgid "未选择任何文件"
-msgstr ""
+msgstr "何も選択していません"
 
 #: inc/theme-options/includes/class-options-media-uploader.php:31
 #: inc/theme-options/includes/class-options-media-uploader.php:69
 msgid "上传"
-msgstr ""
+msgstr "アップロード"
 
 #: inc/theme-options/includes/class-options-media-uploader.php:33
 #: inc/theme-options/includes/class-options-media-uploader.php:70
 msgid "移除"
-msgstr ""
+msgstr "削除"
 
 #: inc/theme-options/includes/class-options-media-uploader.php:36
 msgid "请更新您的 WordPress 版本以获取完整的媒体文件支持。"
-msgstr ""
+msgstr "完全なメディアファイルのサポートのためにあなたのWordPressのバージョンを更新してください"
 
 #: inc/theme-options/includes/class-options-media-uploader.php:53
 msgid "查看文件"
-msgstr ""
+msgstr "ファイルを表示する"
 
 #: inc/theme-options/includes/class-options-sanitization.php:162
 msgid "不重复"
-msgstr ""
+msgstr "繰り返ししない"
 
 #: inc/theme-options/includes/class-options-sanitization.php:163
 msgid "水平重复"
-msgstr ""
+msgstr "水平で繰り返し"
 
 #: inc/theme-options/includes/class-options-sanitization.php:164
 msgid "垂直重复"
-msgstr ""
+msgstr "垂直繰り返し"
 
 #: inc/theme-options/includes/class-options-sanitization.php:165
 msgid "全部重复"
-msgstr ""
+msgstr "全部繰り返し"
 
 #: inc/theme-options/includes/class-options-sanitization.php:171
 msgid "上部左边"
-msgstr ""
+msgstr "上部左側"
 
 #: inc/theme-options/includes/class-options-sanitization.php:172
 msgid "上部中间"
-msgstr ""
+msgstr "上部中央"
 
 #: inc/theme-options/includes/class-options-sanitization.php:173
 msgid "上部右边"
-msgstr ""
+msgstr "上部右側"
 
 #: inc/theme-options/includes/class-options-sanitization.php:174
 msgid "中部左边"
-msgstr ""
+msgstr "中部左側"
 
 #: inc/theme-options/includes/class-options-sanitization.php:175
 msgid "中部中间"
-msgstr ""
+msgstr "中部中央"
 
 #: inc/theme-options/includes/class-options-sanitization.php:176
 msgid "中部右边"
-msgstr ""
+msgstr "中部右側"
 
 #: inc/theme-options/includes/class-options-sanitization.php:177
 msgid "下部左边"
-msgstr ""
+msgstr "下部左側"
 
 #: inc/theme-options/includes/class-options-sanitization.php:178
 msgid "下部中间"
-msgstr ""
+msgstr "下部中央"
 
 #: inc/theme-options/includes/class-options-sanitization.php:179
 msgid "下部右边"
-msgstr ""
+msgstr "下部右側"
 
 #: inc/theme-options/includes/class-options-sanitization.php:185
 msgid "正常滚动"
-msgstr ""
+msgstr "正常スライド"
 
 #: inc/theme-options/includes/class-options-sanitization.php:186
 msgid "固定"
-msgstr ""
+msgstr "固定"
 
 #: inc/theme-options/includes/class-options-sanitization.php:218
 msgid "常规"
-msgstr ""
+msgstr "普通"
 
 #: inc/theme-options/includes/class-options-sanitization.php:219
 msgid "斜体"
-msgstr ""
+msgstr "斜め"
 
 #: inc/theme-options/includes/class-options-sanitization.php:220
 msgid "粗体"
-msgstr ""
+msgstr "太字"
 
 #: inc/theme-options/includes/class-options-sanitization.php:221
 msgid "斜粗体"
-msgstr ""
+msgstr "斜め太字"
 
 #: inc/widgets.php:10
 msgid "暂时没有数据"
-msgstr ""
+msgstr "只今、データありません"
 
 #: inc/widgets.php:32
 msgid "刚刚"
-msgstr ""
+msgstr "先ほど"
 
 #: inc/widgets.php:34
 msgid " 年前"
-msgstr ""
+msgstr " 年前"
 
 #: inc/widgets.php:34 inc/widgets.php:35 inc/widgets.php:36 inc/widgets.php:37
 #: inc/widgets.php:38 inc/widgets.php:39 inc/widgets.php:40
 msgid "m月d日"
-msgstr ""
+msgstr "m月d日"
 
 #: inc/widgets.php:35
 msgid " 个月前"
-msgstr ""
+msgstr " ヵ月前"
 
 #: inc/widgets.php:36
 msgid " 周前"
-msgstr ""
+msgstr " 週前"
 
 #: inc/widgets.php:37
 msgid " 天前"
-msgstr ""
+msgstr " 日前"
 
 #: inc/widgets.php:38
 msgid " 小时前"
-msgstr ""
+msgstr " 時間前"
 
 #: inc/widgets.php:39
 msgid " 分钟前"
-msgstr ""
+msgstr " 分前"
 
 #: inc/widgets.php:40
 msgid " 秒前"
-msgstr ""
+msgstr " 秒前"
 
 #: inc/widgets.php:74
 msgid "侧边栏工具"
-msgstr ""
+msgstr "サイドバーツール"
 
 #: inc/widgets.php:102
 msgid "广告位"
-msgstr ""
+msgstr "広報スペース"
 
 #: inc/widgets.php:103
 msgid "Kratos主题特色组件 - 广告位"
-msgstr ""
+msgstr "Kratosの特色コンポーネント　－ 広報スペース"
 
 #: inc/widgets.php:131
 msgid "标题(可留空)："
-msgstr ""
+msgstr "タイトル(空いても構いません)"
 
 #: inc/widgets.php:136
 msgid "链接："
-msgstr ""
+msgstr "リンク："
 
 #: inc/widgets.php:141
 msgid "图片："
-msgstr ""
+msgstr "画像："
 
 #: inc/widgets.php:151
 msgid "个人简介"
-msgstr ""
+msgstr "自己紹介"
 
 #: inc/widgets.php:152
 msgid "Kratos主题特色组件 - 个人简介"
-msgstr ""
+msgstr "Kratosの特色コンポーネント　－ 自己紹介"
 
 #: inc/widgets.php:175
 msgid "撰写文章"
