@@ -778,75 +778,75 @@ msgstr "自己紹介"
 
 #: inc/widgets.php:152
 msgid "Kratos主题特色组件 - 个人简介"
-msgstr "Kratosの特色コンポーネント　－ 自己紹介"
+msgstr "Kratosの特色コンポーネント － 自己紹介"
 
 #: inc/widgets.php:175
 msgid "撰写文章"
-msgstr ""
+msgstr "文章を書く"
 
 #: inc/widgets.php:176
 msgid "新建页面"
-msgstr ""
+msgstr "新しページ"
 
 #: inc/widgets.php:177
 msgid "查看评论"
-msgstr ""
+msgstr "コメントを確認"
 
 #: inc/widgets.php:180
 msgid "站点设置"
-msgstr ""
+msgstr "サイト設定"
 
 #: inc/widgets.php:182 inc/widgets.php:197
 msgid "退出登录"
-msgstr ""
+msgstr "ログアウト"
 
 #: inc/widgets.php:195
 msgid "个人资料"
-msgstr ""
+msgstr "プロファイル"
 
 #: inc/widgets.php:196
 msgid "仪表盘"
-msgstr ""
+msgstr "パネル"
 
 #: inc/widgets.php:219
 msgid "头像地址："
-msgstr ""
+msgstr "アイコンURL"
 
 #: inc/widgets.php:224
 msgid "简介内容："
-msgstr ""
+msgstr "紹介内容"
 
 #: inc/widgets.php:229
 msgid "卡片背景："
-msgstr ""
+msgstr "カード背景"
 
 #: inc/widgets.php:238 inc/widgets.php:281
 msgid "标签聚合"
-msgstr ""
+msgstr "Tagクラウド"
 
 #: inc/widgets.php:239
 msgid "Kratos主题特色组件 - 标签聚合"
-msgstr ""
+msgstr "Kratosの特色コンポーネント － Tagクラウド"
 
 #: inc/widgets.php:287 inc/widgets.php:434
 msgid "标题："
-msgstr ""
+msgstr "タイトル："
 
 #: inc/widgets.php:290
 msgid "数量："
-msgstr ""
+msgstr "数量："
 
 #: inc/widgets.php:293
 msgid "类型："
-msgstr ""
+msgstr "形式："
 
 #: inc/widgets.php:295
 msgid "数量"
-msgstr ""
+msgstr "数量："
 
 #: inc/widgets.php:296
 msgid "名字"
-msgstr ""
+msgstr "名前"
 
 #: inc/widgets.php:301
 msgid "排序："
